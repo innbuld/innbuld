@@ -6,7 +6,7 @@
 
 Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,dotnet,html,js,react,css,github,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,dotnet,html,js,nextjs,nestjs,prisma,tailwind,ts,react,css,github,git,)](https://skillicons.dev)
 
 <!---
 innbuld/innbuld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
