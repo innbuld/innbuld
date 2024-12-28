@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdulmuizz
-- 👀 I’m interested in building dapps and smart contracts
+- 👀 Building dapps and smart contract
 - 🌱 Web 3.0 Development using solidity, rust, hardhat, ether js , reactJs, Next js, typescript, nest , MUI, Chakra and tailwind css
-- 💞️ I’m looking to collaborate on more devleopment and learning
+- 💞️ I’m looking to collaborate on more development 
 - 📫 How to reach me Abdulmuizz.eth@gmail.com
 
 Languages:
