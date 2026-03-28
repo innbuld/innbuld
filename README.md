@@ -2,7 +2,7 @@
 - 👀 Building dapps and smart contract
 - 🌱 Web 3.0 Development using solidity, rust, hardhat, ether js , reactJs, Next js, typescript, nest , MUI, Chakra and tailwind css
 - 💞️ I’m looking to collaborate on more development 
-- 📫 How to reach me kanmiolanrewaju@gmail.com
+
 
 Languages:
 
