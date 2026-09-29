@@ -17,9 +17,9 @@
 
 ### 🧭 About Me
 
-- 🏗️ Building **scalable microservice architectures** with **C# / .NET**, **NestJS** and **Node.js** — event-driven, containerised and cloud-ready
+- 🏗️ Building **scalable microservice architectures** with **C# / .NET**, **NestJS** and **Node.js**  event-driven, containerised and cloud-ready
 - ⛓️ Designing and auditing **smart contracts** and **DeFi protocols** (lending, perps, staking, bridges) on EVM chains and Solana
-- 🤖 Integrating **AI agents and LLMs** into real products — memory engines, trading agents and confidential compute
+- 🤖 Integrating **AI agents and LLMs** into real products  memory engines, trading agents and confidential compute
 - 🎨 Crafting fast, accessible frontends with **React**, **Next.js** and **TypeScript**
 
 - 🤝 Open to collaboration on backend systems, Web3 infrastructure and AI products
