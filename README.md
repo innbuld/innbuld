@@ -21,7 +21,7 @@
 - ⛓️ Designing and auditing **smart contracts** and **DeFi protocols** (lending, perps, staking, bridges) on EVM chains and Solana
 - 🤖 Integrating **AI agents and LLMs** into real products — memory engines, trading agents and confidential compute
 - 🎨 Crafting fast, accessible frontends with **React**, **Next.js** and **TypeScript**
-- 🏢 Currently building at **Craft3**
+
 - 🤝 Open to collaboration on backend systems, Web3 infrastructure and AI products
 
 ---
