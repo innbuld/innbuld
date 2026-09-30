@@ -92,50 +92,6 @@
 
 ---
 
-### 🧱 How I Build
-
-I treat every product as one system, from the smart contract to the service layer to the pixel on screen. These are the principles I bring to each layer.
-
-#### ⚙️ Software Engineering
-
-- **Architecture & Microservices**
-  - Split systems along domain-driven boundaries so each service owns its data, logic and deployment lifecycle
-  - Put API gateways in front of services for routing, auth, rate limiting and versioning, keeping clients decoupled from internal topology
-  - Use async messaging (RabbitMQ / event bus) for workflows that must survive partial failure, with idempotent consumers and retry and dead-letter handling
-  - Apply CQRS and event-driven patterns where read and write loads genuinely diverge, not by default
-
-- **Backend Engineering in C# / .NET & Node.js**
-  - Structure services with Clean Architecture: domain, application, infrastructure and API layers that stay testable and easy to change
-  - Build ASP.NET Core Web APIs with Entity Framework Core, MediatR and dependency injection, and NestJS services with modular, strongly typed boundaries
-  - Design REST contracts first, with consistent error models, pagination, validation and OpenAPI documentation
-  - Model data carefully in PostgreSQL: normalised schemas, targeted indexing, transactions and safe, versioned migrations
-
-- **Quality & Testing**
-  - Unit, integration and end-to-end tests (xUnit, Jest) wired into every pull request
-  - Code review as a teaching tool, with shared standards for naming, structure and error handling across the team
-  - Performance profiling before optimisation, with measurable budgets for latency and load
-
-- **Reliability & DevOps**
-  - Containerise every service with Docker and orchestrate with Kubernetes for repeatable, scalable deployments
-  - Ship through CI/CD pipelines (GitHub Actions) with automated tests, linting, security checks and staged rollouts
-  - Build in observability from day one: structured logging, health checks, metrics and alerting, treating uptime as a first-class feature
-
-#### ⛓️ Blockchain Engineering
-
-- **Smart Contract Development**
-  - Write Solidity and Rust contracts that are minimal, explicit and easy to audit, with clear access control and upgrade paths
-  - Test exhaustively with Hardhat and Foundry: unit, fuzz and fork tests against real mainnet state
-  - Optimise gas without sacrificing readability or safety
-
-- **Security First**
-  - Follow a defensive checklist on every contract: reentrancy guards, checks-effects-interactions, safe math, oracle and front-running considerations
-  - Design for audit from the start; my wallet-safety contracts at Rollback Labs passed an independent audit with a score of 90/100
-  - Bring a cybersecurity management background to threat modelling across contracts, backends and key management
-
-- **Protocol & Infrastructure**
-  - Build DeFi primitives: DEXs, lending, staking, perpetuals and launch mechanics
-  - Engineer cross-chain bridges and privacy-preserving trading, including a bridge and privacy spot DEX running at 99.9% uptime
-  - Build EVM-compatible Layer 2 applications and indexing and relayer services that keep off-chain state consistent with the chain
 
 #### 🌐 Full-Stack Web3 Delivery
 
